@@ -9,7 +9,7 @@ void func1(void)
     int i = 0;
 
     for(;i<0xffffffff;i++);
-    new_func1();
+//    new_func1();
 
     return;
 }
