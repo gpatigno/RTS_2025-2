@@ -1,0 +1,2 @@
+clean:
+	$(RM) *.out* *.txt*
