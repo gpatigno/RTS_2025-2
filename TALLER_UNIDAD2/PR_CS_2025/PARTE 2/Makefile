@@ -27,4 +27,4 @@ case5:	prod_consum_lambda_solved_cplus17_v2.cpp
 
 
 clean:
-	rm case* *.txt
+	$(RM) all: case* *.txt
