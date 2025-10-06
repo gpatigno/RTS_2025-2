@@ -15,7 +15,7 @@
 #include <sys/time.h>
 
 
-// #define DEBUG_MODE
+#define DEBUG_MODE
 #define TIME2SLEEP 1000000	// Time to sleep in us.
 
 void current_time()
